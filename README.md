@@ -1,6 +1,13 @@
 # tf-ffcv
 This library provide (experimental) support for Tensorflow and FFCV.
 
+## Installation
+
+Once you have FFCV setup it's simply:
+```
+pip install tf-ffcv
+```
+
 ## Usage example
 
 To demonstrate how to use it we will use the cifar example of the main FFCV repository.
