@@ -1,4 +1,4 @@
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
